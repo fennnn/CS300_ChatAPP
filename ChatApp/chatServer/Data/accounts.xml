@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accounts>
+  <account accountID="test2">
+    <password>f9200e0934f3c98a0a6b7dcfbc5753aa0d6e4a401a89db72cccd84e2845d057a</password>
+  </account>
+  <account accountID="fenting">
+    <password>094dacfa4ae26448b7e7fdb6bf45b639ea9c9de2f942aa42310305f0657f9c61</password>
+  </account>
+  <account accountID="test0">
+    <password>91b4d142823f7d20c5f08df69122de43f35f057a988d9619f6d3138485c9a203</password>
+  </account>
+  <account accountID="test1">
+    <password>a7fda0b61e2047f0f1057d1f5f064c272fd5d490961c531f4df64b0dd354683a</password>
+  </account>
+  <account accountID="fen">
+    <password>8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92</password>
+  </account>
+</accounts>
